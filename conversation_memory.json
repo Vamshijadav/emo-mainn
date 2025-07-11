@@ -1,0 +1,35 @@
+{
+  "history": [
+    {
+      "timestamp": "2025-06-28T22:16:18.508460",
+      "user": "System startup",
+      "assistant": "Hello Sandeep! I am  krishna, your personal assistant. This is our first conversation!",
+      "context": "greeting",
+      "language": "en"
+    },
+    {
+      "timestamp": "2025-06-28T22:16:44.666280",
+      "user": "switch to telugu",
+      "assistant": "I will now speak in telugu.",
+      "context": "language_change",
+      "language": "te"
+    },
+    {
+      "timestamp": "2025-06-28T22:16:57.741947",
+      "user": "who is mahatma gandhi",
+      "assistant": "Hello Sandeep! How may I help you today?",
+      "context": "greeting",
+      "language": "te"
+    },
+    {
+      "timestamp": "2025-06-28T22:17:16.570068",
+      "user": "respond in telugu",
+      "assistant": "I will now speak in telugu.",
+      "context": "language_change",
+      "language": "te"
+    }
+  ],
+  "context": {},
+  "language": "te",
+  "last_updated": "2025-06-28T22:17:16.570159"
+}

@@ -1,0 +1,11 @@
+pyttsx3
+SpeechRecognition      # Built-in – no need to install
+pyjokes
+pywhatkit # Built-in – no need to install
+pyautogui
+wikipedia       # Built-in – no need to install
+ultralytics # cv2 comes from this
+cvzone    # Built-in – no need to install
+requests
+google-generativeai
+pyaudio
